@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{25BF9B5D-EE1B-30FF-447F-A15E6F09C640}") = "Run Poppy Run", "Assembly-CSharp-firstpass.csproj", "{C480DF97-6BE4-E210-0BF3-7C447FB0F14D}"
+EndProject
+Project("{25BF9B5D-EE1B-30FF-447F-A15E6F09C640}") = "Run Poppy Run", "Assembly-CSharp.csproj", "{47271277-6EAD-DF09-17C7-C50EBAC6A3ED}"
+EndProject
+Project("{25BF9B5D-EE1B-30FF-447F-A15E6F09C640}") = "Run Poppy Run", "Assembly-CSharp-Editor.csproj", "{9CF5A94F-4440-7D26-CD5C-0716EBCDBFEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C480DF97-6BE4-E210-0BF3-7C447FB0F14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C480DF97-6BE4-E210-0BF3-7C447FB0F14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C480DF97-6BE4-E210-0BF3-7C447FB0F14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C480DF97-6BE4-E210-0BF3-7C447FB0F14D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47271277-6EAD-DF09-17C7-C50EBAC6A3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47271277-6EAD-DF09-17C7-C50EBAC6A3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47271277-6EAD-DF09-17C7-C50EBAC6A3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47271277-6EAD-DF09-17C7-C50EBAC6A3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF5A94F-4440-7D26-CD5C-0716EBCDBFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF5A94F-4440-7D26-CD5C-0716EBCDBFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF5A94F-4440-7D26-CD5C-0716EBCDBFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF5A94F-4440-7D26-CD5C-0716EBCDBFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
