@@ -1,0 +1,6 @@
+http://catlikecoding.com/unity/tutorials/runner/
+
+https://www.raywenderlich.com/69392/make-game-like-jetpack-joyride-unity-2d-part-1
+
+https://unity3d.com/learn/tutorials/topics/scripting/lets-make-game-infinite-runner
+
