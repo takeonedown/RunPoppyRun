@@ -2,14 +2,15 @@
 using System.Collections;
 
 public class PlayerMovement : MonoBehaviour {
-
-	public float speed = 10.0f;
-	public float jumpSpeed = 8.0f;
-	public float gravity = 20.0f;
-	private Vector3 moveDirection = Vector3.zero;
+	public float MovementSpeed;
 	
-
-	void Update () {
-	
+	void Start () {
+		
 	}
+	
+	
+	void Update () {
+		transform.Translate(MovementSpeed * Time.deltaTime, 0f, 0f);
+	}
+
 }
